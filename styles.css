@@ -398,3 +398,11 @@ main img {
   padding-left: 20px;
 
 }
+.contact ul li a {
+  color:white;
+  text-decoration: none;
+}
+
+.contact ul li a:hover{
+  color: rgb(189, 187, 255);
+}
